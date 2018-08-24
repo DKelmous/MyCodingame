@@ -1,0 +1,2 @@
+# MyCodingame
+Solution exercice codingame
